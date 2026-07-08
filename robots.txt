@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://termo-spray.ru/sitemap.xml
